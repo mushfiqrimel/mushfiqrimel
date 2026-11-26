@@ -16,7 +16,3 @@ I'm a **2nd-year Computer Science & Engineering (CSE)** student at **East West U
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>

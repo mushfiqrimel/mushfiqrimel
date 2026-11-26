@@ -1,4 +1,4 @@
-### Hi there, I'm [আপনার নাম] 👋
+### Hi there, I'm Mushfiqur Rimel 👋
 
 I'm a **2nd-year Computer Science & Engineering (CSE)** student at **East West University (EWU)**, Dhaka. I'm passionate about problem-solving and working toward becoming a **Software Engineer**.
 
@@ -6,7 +6,7 @@ I'm a **2nd-year Computer Science & Engineering (CSE)** student at **East West U
 - 🌱 Exploring: **System Design basics, Git/GitHub workflows, and Open Source**
 - 👯 Looking to collaborate on: **Beginner-friendly software projects & hackathons**
 - 💬 Ask me about: **C, C++, Java, Python, or university coursework**
-- 📫 How to reach me: **[your.email@example.com]** | **[LinkedIn](https://linkedin.com/in/your-profile)**
+- 📫 How to reach me: **[mdmushfiqur05@gmail.com]** 
 
 ---
 
